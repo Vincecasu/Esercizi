@@ -12,4 +12,4 @@ totale = 0
 for i in l1:
     totale = totale + i
 
-print("totale: ", totale)
+print("totale: ",totale)
