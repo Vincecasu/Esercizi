@@ -8,7 +8,9 @@ import random
 def ColoreCasuale():
     colori = ["rosso","giallo","verde","blu","arancio","ciano","rosa",
               "turchese"]
-       
-    return colori[random.randint(0,len(colori)-1)]
+    for i in colori:
+        colori.append (random.randint(len(0,i)))
+        
+        return colori
 
 print(ColoreCasuale())
