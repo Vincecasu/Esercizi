@@ -1,4 +1,5 @@
-# 6) Trovare qual'è il calciatore più giovane che ha partecipato alla coppa del mondo
+# 6) Trovare qual'è il calciatore più giovane che ha partecipato alla coppa 
+# del mondo
 
 import json
 #Per leggere un file json:
